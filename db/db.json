@@ -1,9 +1,9 @@
 {
     "notes": [
       {
-        "id": "0",
         "title": "Sample Note",
-        "text": "Type notes here!"
+        "text": "Type notes here!",
+        "id": "0"
         
       }
     ]
